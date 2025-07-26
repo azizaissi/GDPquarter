@@ -5,4 +5,5 @@ scikit-learn==1.5.0
 plotly==5.22.0 
 shap==0.45.0 
 matplotlib==3.9.0 
-joblib==1.4.2
+joblib==1.4.2 
+pytz==2024.1
